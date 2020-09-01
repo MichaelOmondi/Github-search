@@ -1,0 +1,67 @@
+label{
+    cursor: pointer;
+}
+.panel{
+    cursor: pointer;
+}
+#date{
+    cursor: pointer;
+}
+/* html{
+     background-image: url("/src/assets/Telegram.jpg");  
+} */
+/* body{
+    background-image: url(../../assets/Mild.jpg);
+} */
+.container-fluid{
+   
+    background-size: cover;
+    font-family: 'Courgette', cursive;
+    font-size:30px;
+    /* background-color:lightcoral; */
+    height:100%;
+    width:100%;
+    position: absolute; 
+}
+
+#userbios{
+    
+     background-size: cover;
+    font-family: 'Courgette', cursive;
+    font-size:30px;
+    background-color:yellowgreen; 
+    height:100%;
+    width:100%;
+    position: absolute; 
+    display: none;
+}
+.avatar{
+    align-content:center;
+    margin-left: 33%;
+
+}
+#reponame{
+    cursor: pointer;
+    /* font-family: 'Lobster', cursive; */
+    font-size:40px;
+}
+#reporow{
+margin-left:10%;
+}
+#repotag{
+    margin-left:37%;
+    font-family: 'Lobster', cursive;
+    font-size:50px;
+    margin-right:38%;
+}
+#entergit{
+    font-family: 'Lobster', cursive;
+    margin-left:38%;
+    color:black;
+    width:20%;
+    font-size:25px;
+    
+}
+#repolist{
+    background: transparent;
+}
